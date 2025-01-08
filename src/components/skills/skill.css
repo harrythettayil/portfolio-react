@@ -1,0 +1,22 @@
+.tool-container {
+  flex-wrap: wrap;
+  gap: 16px;
+  justify-content: center;
+}
+
+.tool-box {
+  padding: 8px;
+  border-radius: 4px;
+  width: 100px;
+  background-color: var(--forth-color);
+}
+
+.tool-img {
+  width: 48px;
+}
+
+@media (min-width: 768px) {
+  .tool-container {
+    justify-content: start;
+  }
+}

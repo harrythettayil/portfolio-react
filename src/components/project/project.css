@@ -1,0 +1,48 @@
+.project-box{
+  width: 100%;
+}
+
+.arrow {
+  width: 24px;
+}
+
+.projects .d-flex {
+  gap: 16px;
+  flex-direction: column;
+}
+
+.project {
+  border-radius: 8px;
+  background-color: var(--forth-color);
+}
+
+.project-img {
+  width: 100%;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.projects .project-details {
+  padding: 10px 16px;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+@media (min-width: 768px) {
+  .projects .d-flex {
+    flex-direction: row;
+  }
+
+  .project {
+    width: 50%;
+    transition: transform 0.3s ease;
+  }
+
+  .project:hover {
+    transform: scale(1.02);
+  }
+
+  .project-img {
+    width: 100%;
+  }
+}

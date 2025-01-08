@@ -1,0 +1,10 @@
+.exp-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.exp-box {
+  padding: 16px;
+  border-radius: 4px;
+}
