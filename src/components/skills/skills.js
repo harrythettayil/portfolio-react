@@ -16,12 +16,16 @@ const skills = [
     title: "React.js",
   },
   {
-    img: figmaImage, 
-    title: "Figma",
+    img: jsImage, 
+    title: "JavaScript",
   },
   {
-    img: chatgptImage, 
-    title: "ChatGpt",
+    img: nodeImage, 
+    title: "Node.js",
+  },
+  {
+    img: rubyImage, 
+    title: "Ruby",
   },
   {
     img: htmlImage, 
@@ -36,24 +40,20 @@ const skills = [
     title: "SASS",
   },
   {
-    img: jsImage, 
-    title: "JavaScript",
-  },
-  {
-    img: nodeImage, 
-    title: "Node.js",
-  },
-  {
-    img: rubyImage, 
-    title: "Ruby",
-  },
-  {
     img: gitImage, 
     title: "git",
   },
   {
+    img: figmaImage, 
+    title: "Figma",
+  },
+  {
     img: canvaImage, 
     title: "Canva",
+  },
+  {
+    img: chatgptImage, 
+    title: "ChatGpt",
   },
 ];
 
