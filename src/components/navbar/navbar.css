@@ -9,6 +9,7 @@
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); /* Soft shadow */
     backdrop-filter: blur(24px); /* Frosted glass effect */
     -webkit-backdrop-filter: blur(12px); /* Frosted glass for Safari */
+    z-index: 1;
 }
 
 .nav-links{
