@@ -1,3 +1,4 @@
+import Navbar from './components/navbar/navbar'
 import Banner from './components/banner/banner'
 import Experience from './components/experience/experience'
 import Project from './components/project/project'
@@ -8,6 +9,7 @@ import './App.css'
 function App() {
   return (
     <>
+    <Navbar />
     <Banner />
     <Experience />
     <Project />

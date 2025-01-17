@@ -5,7 +5,7 @@ import ProjectItem from "./projectItem/projectItem";
 
 function Project() {
   return (
-    <div className="container projects">
+    <div id="projects" className="container projects">
       <h2 className="mb-3">Projects</h2>
       <div className="d-flex">
         {projects.map((project, index) => (

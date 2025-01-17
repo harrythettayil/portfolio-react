@@ -4,7 +4,7 @@ import image from "../../assets/images/harry.jpg";
 
 function Banner() {
   return (
-    <div className="container">
+    <div id="banner" className="container">
       <div className="d-flex banner">
         <div className="banner-text">
           <p>Hi!&nbsp;I'm</p>

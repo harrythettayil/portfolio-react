@@ -6,7 +6,7 @@ function Footer() {
   const currentYear = new Date().getFullYear();
 
   return (
-    <div className="container">
+    <div id="footer" className="container">
       <h2 className="mb-3">Contact</h2>
       <div className="contact-gird">
         <div className="contact-gird__column bg-color first-column">
