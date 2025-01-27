@@ -1,4 +1,3 @@
-import React from "react";
 import "./skill.css";
 import skills from "./skills";
 import SkillItem from "./skillItem/skillItem";

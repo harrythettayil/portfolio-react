@@ -1,4 +1,3 @@
-import React from "react";
 import exp from "./exp";
 import "./experience.css";
 import ExperienceItem from "./expItem/expItem";

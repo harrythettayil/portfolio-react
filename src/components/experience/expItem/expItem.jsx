@@ -1,5 +1,3 @@
-import React from "react";
-
 function ExperienceItem(props) {
   return (
     <div className="exp-box bg-color">

@@ -1,4 +1,3 @@
-import React from "react";
 import arrow from "../../../assets/images/arrow-up-right.svg";
 
 function ProjectItem(props) {

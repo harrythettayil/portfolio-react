@@ -1,4 +1,3 @@
-import React from "react";
 import './banner.css';
 import image from "../../assets/images/harry.jpg";
 

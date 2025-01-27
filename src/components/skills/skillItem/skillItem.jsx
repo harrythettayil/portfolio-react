@@ -1,5 +1,3 @@
-import React from "react";
-
 function SkillItem(props) {
   return (
     <div className="tool-box text-center">

@@ -1,4 +1,3 @@
-import React from "react";
 import socials from "./socials";
 
 function Social() {

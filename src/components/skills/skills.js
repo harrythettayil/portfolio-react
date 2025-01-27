@@ -4,6 +4,7 @@ import chatgptImage from "../../assets/images/chatgpt.png";
 import htmlImage from "../../assets/images/html.png";
 import cssImage from "../../assets/images/css.png";
 import sassImage from "../../assets/images/sass.png";
+import tailwindImage from "../../assets/images/tailwind.png"
 import jsImage from "../../assets/images/javascript.png";
 import nodeImage from "../../assets/images/nodejs.png";
 import rubyImage from "../../assets/images/ruby.png";
@@ -12,16 +13,16 @@ import canvaImage from "../../assets/images/canva.png";
 
 const skills = [
   {
+    img: nodeImage, 
+    title: "Next.js",
+  },
+  {
     img: reactImage, 
     title: "React.js",
   },
   {
     img: jsImage, 
     title: "JavaScript",
-  },
-  {
-    img: nodeImage, 
-    title: "Node.js",
   },
   {
     img: rubyImage, 
@@ -38,6 +39,10 @@ const skills = [
   {
     img: sassImage, 
     title: "SASS",
+  },
+  {
+    img: tailwindImage, 
+    title: "Tailwind",
   },
   {
     img: gitImage, 
