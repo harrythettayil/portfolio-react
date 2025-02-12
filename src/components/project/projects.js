@@ -1,6 +1,7 @@
 import portfolioImage from "../../assets/images/portfolio.png";
 import boardroomsImage from "../../assets/images/boardrooms.png";
 import forgonyxImage from "../../assets/images/forgonyx.png";
+import conversaxImage from "../../assets/images/conversax.png";
 
 const projects = [
   {
@@ -19,7 +20,13 @@ const projects = [
     href: "https://harrythettayil.github.io/forgonyx/",
     img: forgonyxImage, // Use the imported image
     title: "Forgonyx",
-    tools: "html,css",
+    tools: "Landing page, responsive",
+  },
+  {
+    href: "https://harrythettayil.github.io/conversax/",
+    img: conversaxImage, // Use the imported image
+    title: "ConversaX",
+    tools: "Landing Page, responsive",
   },
 ];
 
