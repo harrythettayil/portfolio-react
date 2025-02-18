@@ -5,7 +5,7 @@ const exp = [
   },
   {
     title: "Front End Developer @ Forgonyx", 
-    time: "Jan 25 -",
+    time: "June 25 -",
   }
 ]
 
