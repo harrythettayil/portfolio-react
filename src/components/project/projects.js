@@ -2,6 +2,8 @@ import portfolioImage from "../../assets/images/portfolio.png";
 import boardroomsImage from "../../assets/images/boardrooms.png";
 import forgonyxImage from "../../assets/images/forgonyx.png";
 import conversaxImage from "../../assets/images/conversax.png";
+import otnaImage from "../../assets/images/otna.png";
+import grandcochinImage from "../../assets/images/grand-cochin.png";
 
 const projects = [
   {
@@ -15,6 +17,18 @@ const projects = [
     img: boardroomsImage, // Use the imported image
     title: "Boardrooms",
     tools: "Next.js, Tailwind",
+  },
+  {
+    href: "https://www.grandcochin.com",
+    img: grandcochinImage, // Use the imported image
+    title: "Grand Cochin",
+    tools: "Landing page, responsive, web3 form",
+  },
+  {
+    href: "https://www.otnainfotech.com/",
+    img: otnaImage, // Use the imported image
+    title: "OTNA Infotech",
+    tools: "Landing page, responsive",
   },
   {
     href: "https://harrythettayil.github.io/forgonyx/",

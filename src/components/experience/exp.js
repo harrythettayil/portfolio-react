@@ -5,8 +5,12 @@ const exp = [
   },
   {
     title: "Front End Developer @ Forgonyx", 
-    time: "June 25 -",
-  }
+    time: "June 24 - Dec 24",
+  },
+  {
+    title: "Web Developer @ OTNA Infotech", 
+    time: "Jan 25 -",
+  },
 ]
 
 export default exp;
