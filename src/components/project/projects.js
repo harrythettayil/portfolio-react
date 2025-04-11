@@ -10,13 +10,13 @@ const projects = [
     href: "https://harrythettayil.github.io/portfolio/",
     img: portfolioImage, // Use the imported image
     title: "this.site()",
-    tools: "React",
+    tools: "React.js",
   },
   {
     href: "https://board-rooms.vercel.app/",
     img: boardroomsImage, // Use the imported image
     title: "Boardrooms",
-    tools: "Next.js, Tailwind",
+    tools: "React.js, Next.js, Tailwind",
   },
   {
     href: "https://www.grandcochin.com",
