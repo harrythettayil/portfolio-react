@@ -9,8 +9,7 @@ function Banner() {
           <p>Hi!&nbsp;I'm</p>
           <h1 className="mb-2">Harry</h1>
           <p>
-            A <span className="secondary-color">Front End Developer</span> and a{" "}
-            <span className="third-color">UI/UX designer</span>.
+           A <span className="secondary-color">React-Focused</span> Front-End Developer.
           </p>
         </div>
         <img
