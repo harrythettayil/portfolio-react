@@ -1,7 +1,6 @@
 import portfolioImage from "../../assets/images/portfolio.png";
 import boardroomsImage from "../../assets/images/boardrooms.png";
 import forgonyxImage from "../../assets/images/forgonyx.png";
-import conversaxImage from "../../assets/images/conversax.png";
 import otnaImage from "../../assets/images/otna.png";
 import grandcochinImage from "../../assets/images/grand-cochin.png";
 import clymateImage from "../../assets/images/clymate.png";
@@ -42,12 +41,6 @@ const projects = [
     img: forgonyxImage, // Use the imported image
     title: "Forgonyx",
     tools: "Landing page, responsive",
-  },
-  {
-    href: "https://harrythettayil.github.io/conversax/",
-    img: conversaxImage, // Use the imported image
-    title: "ConversaX",
-    tools: "Landing Page, responsive",
   },
 ];
 
