@@ -4,6 +4,7 @@ import forgonyxImage from "../../assets/images/forgonyx.png";
 import conversaxImage from "../../assets/images/conversax.png";
 import otnaImage from "../../assets/images/otna.png";
 import grandcochinImage from "../../assets/images/grand-cochin.png";
+import clymateImage from "../../assets/images/clymate.png";
 
 const projects = [
   {
@@ -13,9 +14,15 @@ const projects = [
     tools: "React.js",
   },
   {
+    href: "https://harrythettayil.github.io/clymate/",
+    img: clymateImage, // Use the imported image
+    title: "Clymate Weather Dashboard",
+    tools: "React.js, Tailwind, Shadcn, Recharts",
+  },
+  {
     href: "https://board-rooms.vercel.app/",
     img: boardroomsImage, // Use the imported image
-    title: "Boardrooms",
+    title: "Boardrooms - Book Meeting Rooms",
     tools: "React.js, Next.js, Tailwind",
   },
   {
