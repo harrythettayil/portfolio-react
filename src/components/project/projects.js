@@ -21,7 +21,7 @@ const projects = [
   {
     href: "https://board-rooms.vercel.app/",
     img: boardroomsImage, // Use the imported image
-    title: "Boardrooms - Book Meeting Rooms",
+    title: "Boardrooms",
     tools: "React.js, Next.js, Tailwind",
   },
   {
